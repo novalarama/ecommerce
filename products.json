@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 2,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 3,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 4,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1000",
+      "category": "Living Room"
+    },
+    {
+      "id": 5,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=1000",
+      "category": "Living Room"
+    },
+    {
+      "id": 6,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 7,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=1000",
+      "category": "Living Room"
+    },
+    {
+      "id": 8,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 9,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?q=80&w=1000",
+      "category": "Dining Room"
+    },
+    {
+      "id": 10,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1000",
+      "category": "Sofa Sets"
+    },
+    {
+      "id": 11,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=1000",
+      "category": "Sofa Sets"
+    },
+    {
+      "id": 12,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 13,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=1000",
+      "category": "Living Room"
+    },
+    {
+      "id": 14,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 15,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?q=80&w=1000",
+      "category": "Dining Room"
+    },
+    {
+      "id": 16,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1000",
+      "category": "Sofa Sets"
+    },
+    {
+      "id": 17,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=1000",
+      "category": "Sofa Sets"
+    },
+    {
+      "id": 18,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 19,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=1000",
+      "category": "Living Room"
+    },
+    {
+      "id": 20,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": 21,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?q=80&w=1000",
+      "category": "Dining Room"
+    },
+    {
+      "id": 22,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1000",
+      "category": "Sofa Sets"
+    },
+    {
+      "id": 23,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=1000",
+      "category": "Sofa Sets"
+    },
+    {
+      "id": 24,
+      "name": "Double Bed & Side Tables",
+      "price": 200.00,
+      "originalPrice": 230.00,
+      "discount": 13,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1000",
+      "category": "Bedroom"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bedroom",
+      "count": 8
+    },
+    {
+      "id": 2,
+      "name": "Living Room",
+      "count": 6
+    },
+    {
+      "id": 3,
+      "name": "Dining Room",
+      "count": 3
+    },
+    {
+      "id": 4,
+      "name": "Sofa Sets",
+      "count": 5
+    },
+    {
+      "id": 5,
+      "name": "Office Furniture",
+      "count": 2
+    }
+  ]
+} 
